@@ -1,5 +1,5 @@
 # SOLVE-GP: Sparse Orthogonal Variational Inference for Gaussian Processes 
-Jiaxin Shi, Michalis Titsias, and Andriy Mnih, AISTATS 2020. [https://arxiv.org/abs/1910.10596](https://arxiv.org/abs/1910.10596)
+Jiaxin Shi, Michalis K. Titsias, and Andriy Mnih, AISTATS 2020. [https://arxiv.org/abs/1910.10596](https://arxiv.org/abs/1910.10596)
 
 
 ## A Toy Example
